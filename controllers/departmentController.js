@@ -1,6 +1,5 @@
 const departmentModel = require('../models/department')
 
-const courseModel = require
 
 exports.createDepartment = async(req, res)=>{
     try{
